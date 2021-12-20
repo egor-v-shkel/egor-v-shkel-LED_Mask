@@ -1,0 +1,6 @@
+Change Component Description : Designator=T Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | Logic Level
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD2_2 Pin=R1-2
+Added Pin To Net: NetName=NetD2_2 Pin=U1-7
+Added Net: Name=NetD2_2

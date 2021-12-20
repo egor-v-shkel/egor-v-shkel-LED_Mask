@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Member To Class: ClassName=Control_board Member=Component C2 CL21A335KPFNNNG
+Added Member To Class: ClassName=Control_board Member=Component R2 MFR-25FBF52-1K18

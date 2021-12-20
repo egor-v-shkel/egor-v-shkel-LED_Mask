@@ -1,0 +1,101 @@
+Change Component Comment : Designator=R1 Old Comment=MFR-25FBF52-1K18 New Comment=1K
+Added Component: Designator=D2(NXP-SOD27-2_V)
+Add component (AddParameter): Name = "Cd"; Value = "4 pF Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "200 mA Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFRM"; Value = "450 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM"; Value = "4 A Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (VR"; Value = "20 V)=25 nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Hermetically Sealed Glass Package, Axial Leaded, Dia 1.85 mm, Body Length 4.25 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4 ns Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF (IF"; Value = "10 mA)=1 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "100 V Max."; VariantName = "[No Variations]"
+Added Component: Designator=D3(NXP-SOD27-2_V)
+Add component (AddParameter): Name = "Cd"; Value = "4 pF Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "200 mA Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFRM"; Value = "450 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM"; Value = "4 A Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (VR"; Value = "20 V)=25 nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Hermetically Sealed Glass Package, Axial Leaded, Dia 1.85 mm, Body Length 4.25 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4 ns Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF (IF"; Value = "10 mA)=1 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "100 V Max."; VariantName = "[No Variations]"
+Added Component: Designator=R3(RM065)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3318F-1-502/Bourns/view-part/3658500/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3318F-1-502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3318F-1-502/Bourns/view-part/3658500/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T(TO252-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRLR2905TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLR2905TRPBF/Infineon%20Technologies/view-part/836333/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD2_2 Pin=R1-1
+Added Pin To Net: NetName=NetD2_2 Pin=U1-4
+Added Pin To Net: NetName=NetD2_2 Pin=U1-8
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R3-3
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-7
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetT_2 Pin=T-2
+Added Pin To Net: NetName=NetT_2 Pin=T-PAD
+Added Net: Name=NetT_2
+Added Member To Class: ClassName=Control_board Member=Component D2 1N4148
+Added Member To Class: ClassName=Control_board Member=Component D3 1N4148
+Added Member To Class: ClassName=Control_board Member=Component R3 RM065
+Added Member To Class: ClassName=Control_board Member=Component T 70T03GH
